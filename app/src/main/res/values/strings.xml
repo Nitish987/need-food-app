@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NeedFood</string>
+    <string name="need">Need</string>
+    <string name="food">Food!</string>
+    <string name="signup">Signup</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account_login_now">Already have an account? Login now</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign up here</string>
+    <string name="people_who_want_s_to_donate">People who want\'s to donate</string>
+    <string name="what_do_you_want_to_do">What do you want to do?</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="donate_some_food">Donate Some Food</string>
+    <string name="need_some_food">Need Some Food</string>
+    <string name="donate_desc">Provide food to those how require it can reduce the food wastage to a certain extent if we establish a connection between those who need it.</string>
+    <string name="need_desc">When you are unable to help anybody due to financial reasons, you can help the ones who can help and the ones who need it.</string>
+    <string name="enter_your_details_to_donate_food">Enter your details to donate food.</string>
+    <string name="add_for_donation">Add for Donation</string>
+    <string name="get_some_available_food">Get some available food.</string>
+    <string name="title_activity_donate_details">DonateDetailsActivity</string>
+    <string name="title_activity_donate_detail">DonateDetailActivity</string>
+    <string name="my_active_donation">My Active Donation</string>
+    <string name="home">Home</string>
+    <string name="donation">Donation</string>
+    <string name="profile">Profile</string>
+    <string name="remove_from_active_donation">Remove from active donation</string>
+    <string name="logout">Logout</string>
+</resources>
